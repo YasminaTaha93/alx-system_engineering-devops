@@ -1,2 +1,2 @@
-#!/bin/bsh
-mv [[:upper:]]* /tmp/u
+#!/bin/bash
+#rm *~
